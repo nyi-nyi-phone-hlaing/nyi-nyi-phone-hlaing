@@ -1,94 +1,94 @@
-# Hi there, I'm Nyi Nyi Phone Hlaing 👋
+# 👋 Hi, I'm **Nyi Nyi Phone Hlaing** (CodeNoKami)
 
-## Full Stack Developer | MERN Stack Enthusiast
-
-I am a passionate Full Stack Developer with experience in building scalable and robust applications. I am proficient in the MERN stack and various modern tools and technologies. Let's build something amazing together!
+I am a passionate **MERN Stack Developer** from **Mandalay, Myanmar**. I specialize in web development and am continuously learning to grow into a **Full Stack Developer**. I work as a **Freelance Developer**, and my dream is to live peacefully in a small town with my spouse, raise two children, and continue my career in programming with joy.
 
 ---
 
-## 🌱 Skills
+## 🔶 About Me
 
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-  </a>
-  <a href="https://vitejs.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank">
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" alt="NPM">
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
-  </a>
-</p>
+| **🧑‍💼 Full Name**        | **Nyi Nyi Phone Hlaing**        |
+|--------------------------|---------------------------------|
+| **🎮 Coder Name**         | **CodeNoKami (コードの神)** - "The Spirit of Code" |
+| **📅 Date of Birth**     | October 22, 2002                |
+| **🎂 Age**               | 22 years old                    |
+| **🌍 Place of Birth**    | Mandalay, Myanmar               |
+| **📍 Current Location**  | Mandalay, Myanmar               |
+| **🌏 Nationality**       | Burmese (Buddhist)              |
 
 ---
 
-## 📍 Let's Connect
+## 🧑‍💻 Career & Goals
 
-<p align="center">
-  <a href="https://github.com/nyi-nyi-phone-hlaing" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.youtube.com/@nyi_nyi_phone_hlaing" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="mailto:nnph123725@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+| **💼 Current Work**           | Freelance MERN Stack Developer        |
+|------------------------------|--------------------------------------|
+| **🎯 Career Goal**            | Professional Full Stack Developer    |
+| **🌟 Dream**                  | Live peacefully in a small town with my spouse, raise two children, and continue programming happily. |
 
 ---
 
-## 📘 My Teachers
+## 📚 Hobbies & Interests
 
-<p align="center">
-  <a href="https://www.codehubmm.com/blogs" target="_blank">
-    <img src="https://img.shields.io/badge/-Code%20Hub%20MM-1DA1F2?style=flat-square&logo=internet-explorer&logoColor=white" alt="Code Hub MM">
-  </a>
-  <a href="https://www.codingnepalweb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Coding%20Nepal-20C997?style=flat-square&logo=internet-explorer&logoColor=white" alt="Coding Nepal">
-  </a>
-</p>
+| **🎮 Hobbies**                | Reading, Watching Anime, Coding, Learning New Things |
 
 ---
 
-## 📈 GitHub Stats
+## 📱 Contact Information
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nyi-nyi-phone-hlaing&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
+| **📞 Phone Numbers**          | +959767131344, +959768200024        |
+|------------------------------|-------------------------------------|
+| **📧 Email**                 | [nnph123725@gmail.com](mailto:nnph123725@gmail.com) |
+
+## 🌐 Connect
+
+| **[GitHub](https://github.com/nyi-nyi-phone-hlaing)** | ![GitHub](https://img.shields.io/badge/GitHub-%23000000?style=flat&logo=github&logoColor=white) |
+|-----------------------------------------------------|------------------------------------------------------------|
+| **[YouTube](https://www.youtube.com/@nyi_nyi_phone_hlaing)** | ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=flat&logo=youtube&logoColor=white) |
 
 ---
 
-## 🙌 Closing Note
+## 📚 Favorite Books & Media
 
-I look forward to collaborating and creating something great together!
+| **📖 Favorite Books**        | *A Brief History of Humankind*   |
+|-----------------------------|----------------------------------|
+| **📺 Favorite Anime**        | *One Piece, Naruto*             |
+| **🎶 Favorite Songs**        | *8 Letters, Let Her Go, Be Alright, "သို့" (Gfatt)* |
+
+---
+
+## 💻 Skills
+
+Here are some of the technologies I work with:
+
+| ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white) | ![Mongoose](https://img.shields.io/badge/Mongoose-%2340A1A1?style=flat&logo=mongoose&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=flat&logo=firebase&logoColor=white) | ![Express JS](https://img.shields.io/badge/Express.js-%23000000?style=flat&logo=express&logoColor=white) | ![React JS](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB) |
+|-----------------------------------------|---------------------------------------------------------|-----------------------------------------------------|--------------------------------------------------|-----------------------------------------------------|
+| ![Vite](https://img.shields.io/badge/Vite-%23F24E1E?style=flat&logo=vite&logoColor=white) | ![Node JS](https://img.shields.io/badge/Node.js-%2361DAFB?style=flat&logo=nodedotjs&logoColor=white) | ![NPM](https://img.shields.io/badge/NPM-%23000000?style=flat&logo=npm&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=flat&logo=postman&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat&logo=typescript&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=white) |
+
+---
+
+## 🚀 GitHub Projects
+
+| **VDK Project**  | [VDK Project GitHub Repository](https://github.com/nyi-nyi-phone-hlaing/VDK.git) |
+
+---
+
+## 📜 NRC
+
+| **NRC**  | 9/MHM (N) 083040 |
+---
+
+## 🏆 GitHub Stats
+
+Here are my **GitHub stats**:
+
+| **GitHub Contributions** | ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=nyi-nyi-phone-hlaing&show_icons=true&hide_title=true&count_private=true&theme=dark&hide=prs) |
+|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+
+| **Top Languages**        | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nyi-nyi-phone-hlaing&layout=compact&theme=dark)   |
+|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+
+---
+
+Feel free to explore my repositories, contact me for any inquiries, or connect with me for collaboration!
+
+Thanks for stopping by! 😊
