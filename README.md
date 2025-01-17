@@ -68,6 +68,19 @@ I am a passionate Full Stack Developer with experience in building scalable and 
 
 ---
 
+## 📘 My Teachers
+
+<p align="center">
+  <a href="https://www.codehubmm.com/blogs" target="_blank">
+    <img src="https://img.shields.io/badge/-Code%20Hub%20MM-1DA1F2?style=flat-square&logo=internet-explorer&logoColor=white" alt="Code Hub MM">
+  </a>
+  <a href="https://www.codingnepalweb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Coding%20Nepal-20C997?style=flat-square&logo=internet-explorer&logoColor=white" alt="Coding Nepal">
+  </a>
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
