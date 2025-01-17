@@ -72,11 +72,6 @@ Here are some of the technologies I work with:
 
 ---
 
-## 📜 NRC
-
-| **NRC**  | 9/MHM (N) 083040 |
----
-
 ## 🏆 GitHub Stats
 
 Here are my **GitHub stats**:
