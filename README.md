@@ -81,8 +81,9 @@ I am a passionate **MERN Stack Developer** from **Mandalay, Myanmar**. I special
 
 ## <span style="color: #235347; background-color: #051F20;">🏆 GitHub Stats</span>
 
-- **GitHub Contributions**: ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=nyi-nyi-phone-hlaing&show_icons=true&hide_title=true&count_private=true&theme=dark&hide=prs)
-- **Top Languages**: ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nyi-nyi-phone-hlaing&layout=compact&theme=dark)
+- **GitHub Contributions**: ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=nyi-nyi-phone-hlaing&show_icons=true&hide_title=true&count_private=true&theme=transparent&hide=prs)
+- **Top Languages**: ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nyi-nyi-phone-hlaing&layout=compact&theme=transparent)
+
 
 ---
 
